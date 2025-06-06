@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/darkreel-explorer-32611-d3e3a28e/darkreel_explorer"
+}
